@@ -1,0 +1,19 @@
+Planned functional user stories (not yet implemented)
+=====================================================
+
+1. As a user, I want to email myself the current list of affurmations so that I
+   can keep a copy in my inbox without retyping anything.
+
+2. As a user, I want to copy the current affurmations to the clipboard from a
+   menu option so that I can paste them into a note or message quickly.
+
+3. As a user, I want to save the care tips I just received to a text file from
+   the menu so that I can keep them next to my saved affurmations.
+
+4. As a user, I want to request a new random banner from the menu without
+   restarting the app so that the welcome screen feels fresh when I come back
+   to the computer.
+
+5. As a user, I want to pass a --help flag when I start the program so that I
+   see a short description of how to run the client and the microservices
+   without opening the code.
